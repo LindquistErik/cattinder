@@ -11,7 +11,6 @@ class Cats extends Component {
     console.log(this.props)
     return (
       <div>
-        <p>Cats</p>
         <h2>Welcome to our Cats Page</h2>
         <Row>
           <Col xs={12}>
