@@ -1,5 +1,5 @@
 // the address of our rails backend, saved as a constant value, because we never want to accidently change it
-const BASE = 'http://localhost:3000';
+const BASE = 'https://cat-tinder-backend.herokuapp.com';
 
 let getCats = function() {
     // the function name getCats is intended to remind you of the restful rails route --> GET '/cats'.
